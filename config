@@ -1,0 +1,2 @@
+CERTDIR=/certs/
+WELLKNOWN=/acme/

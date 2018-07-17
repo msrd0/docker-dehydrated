@@ -1,4 +1,4 @@
-FROM python:3-alpine3.7
+FROM python:3-alpine3.8
 
 ENV DEHYDRATED_VERSION 0.6.2
 
